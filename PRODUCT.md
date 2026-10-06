@@ -6,6 +6,6 @@ The requested scope is close replication of the style and animation world of [Go
 
 Contact: 0492 92 71 32 (`tel:+32492927132`), verified against the supplied [Google Maps listing](https://www.google.com/maps?cid=5130435621918933500) on 2026-10-06. The listing gives Steenstraat 74, 1800 Vilvoorde. Location handoff uses that listing.
 
-The care categories and descriptions are illustrative and need salon confirmation. All reference raster imagery has been replaced with free stock imagery and two owner-posted salon listing photographs. See IMAGE-SOURCES.md for provenance and licensing. Stock photographs illustrate care; the salon photographs show the actual listing's pets.
+The care categories and descriptions are illustrative and need salon confirmation. All reference raster imagery has been replaced with free stock imagery. See IMAGE-SOURCES.md for provenance and licensing. All photographs are illustrative free stock; none are presented as this salon’s premises or clients.
 
 Delivery: static site in `dist/`. Review evidence: settled desktop (1265px) and mobile (375px) screenshots on 2026-10-06, plus the shipped HTML, CSS and JavaScript. The visual disposition is ship for preview. These captures disable animation and force eager images, so they establish settled layout rather than motion timing or a complete accessibility audit.

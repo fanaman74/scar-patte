@@ -45,7 +45,7 @@ components:
 
 Creative north star: the Good Company watercolor pet world. Preserve the reference's chunky forest-green lettering, cream paper, pink watercolor hero, yellow sun disc, photographic pet cutouts, appointment ticket, care cards and garden reveal. The user explicitly requested close replication, so stylistic fidelity governs refinement.
 
-Visual reference: https://www.aashishthakuri.com/projects/goodcompany/ . All reference raster imagery has been replaced by free stock and owner-posted Maps listing photos. Image provenance is recorded in IMAGE-SOURCES.md. No independently approved comp was supplied.
+Visual reference: https://www.aashishthakuri.com/projects/goodcompany/ . All reference raster imagery has been replaced by free stock photographs. Image provenance is recorded in IMAGE-SOURCES.md. No independently approved comp was supplied.
 
 ## Colors
 

@@ -1,4 +1,9 @@
 /* Each cutout keeps its full source silhouette within the yellow pet scene. */
+.site-header .language-switch{margin-left:auto;order:3}
+.site-header .pet-menu-toggle{order:2}
+.hero-copy{z-index:3}
+.hero-actions .button{font-size:16px;line-height:1.2;min-height:44px;padding:12px 20px;position:relative;z-index:1}
+@media(max-width:700px){.site-header .pet-menu-toggle{margin-left:auto}.site-header .language-switch{margin-left:0}}
 .hero-art .free-dog{width:38%;height:82%;right:20%;bottom:45px;object-fit:contain;object-position:center bottom}
 .hero-cat{width:25%;height:auto;right:1.8%;bottom:80px;object-fit:contain}
 .service-photo-window img{object-fit:cover}

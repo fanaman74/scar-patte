@@ -1,0 +1,1 @@
+{"name":"scar-patte","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","db:generate":"drizzle-kit generate","dev":"node scripts/dev.mjs","test":"node --test tests/booking.test.mjs"},"devDependencies":{"drizzle-kit":"^0.31.4","drizzle-orm":"^0.44.5"}}

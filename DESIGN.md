@@ -69,7 +69,7 @@ Organic paper edges, cutout pet contours, ticket notches, rounded small controls
 
 ## Components
 
-The ticket chooses dog, cat or both and a care category. Submission writes a discussion prompt in the contact section, scrolls there and focuses the telephone link. Care-card arrows reveal details with an action that also leads to the salon contact. Mobile navigation toggles in place; Escape closes it and open care details.
+The ticket chooses dog, cat or both and a care category. Submission prefills pet and service in the bottom appointment form, scrolls there and focuses the name field. Care-card arrows reveal details with an action that prefills the form. Mobile navigation toggles in place; Escape closes it and open care details.
 
 Motion includes the hanging brand tag, hero arrival, card lift/rotation, soft section arrival and garden animals/thought bubbles. Main arrival easing is `cubic-bezier(.16,1,.3,1)`. Reduced-motion rules remove animation and transitions and expose garden content. Selection, scrollbar colors, link underline offsets and visible keyboard outlines use the palette.
 
@@ -80,3 +80,5 @@ Motion includes the hanging brand tag, hero arrival, card lift/rotation, soft se
 - Keep appointment actions truthful: a phone discussion, with no invented reservation confirmation.
 - Treat service descriptions and stock photography as illustrative until confirmed by the salon.
 - Verify motion in an ordinary browser session; capture-mode screenshots establish settled layout only.
+
+The bottom request form uses cream fields on a pale yellow panel, green outlines and the existing display type. The admin page uses a quieter layout with readable request details and status controls. Both support EN/FR/NL.

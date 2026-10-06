@@ -45,7 +45,7 @@ components:
 
 Creative north star: the Good Company watercolor pet world. Preserve the reference's chunky forest-green lettering, cream paper, pink watercolor hero, yellow sun disc, photographic pet cutouts, appointment ticket, care cards and garden reveal. The user explicitly requested close replication, so stylistic fidelity governs refinement.
 
-Reference and asset provenance: https://www.aashishthakuri.com/projects/goodcompany/ . Reference photography is illustrative; it is not salon photography. No independently approved comp was supplied.
+Visual reference: https://www.aashishthakuri.com/projects/goodcompany/ . All reference raster imagery has been replaced by free stock and owner-posted Maps listing photos. Image provenance is recorded in IMAGE-SOURCES.md. No independently approved comp was supplied.
 
 ## Colors
 
@@ -76,7 +76,7 @@ Motion includes the hanging brand tag, hero arrival, card lift/rotation, soft se
 ## Do's and Don'ts
 
 - Preserve the chosen reference world when making local fixes.
-- Keep real French copy readable and clear of overlapping pet art.
+- Keep French, English and Dutch copy readable and clear of overlapping pet art.
 - Keep appointment actions truthful: a phone discussion, with no invented reservation confirmation.
-- Treat services and reference photography as illustrative until confirmed by the salon.
+- Treat service descriptions and stock photography as illustrative until confirmed by the salon.
 - Verify motion in an ordinary browser session; capture-mode screenshots establish settled layout only.

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-06T09:47:09.6841377+02:00",
+  "title": "Design System: Scar-Patte",
+  "extensions": {
+    "colorMeta": {
+      "forest": {
+        "displayName": "Forest Green",
+        "role": "primary"
+      },
+      "paper": {
+        "displayName": "Cream Paper",
+        "role": "neutral"
+      },
+      "pink": {
+        "displayName": "Watercolor Pink",
+        "role": "hero surface"
+      },
+      "sunshine": {
+        "displayName": "Sunshine Yellow",
+        "role": "accent"
+      },
+      "ink": {
+        "displayName": "Reading Ink",
+        "role": "text"
+      }
+    },
+    "shadows": [
+      {
+        "name": "service-detail",
+        "value": "0 10px 30px #073d2930",
+        "purpose": "Care detail overlay"
+      },
+      {
+        "name": "mobile-menu",
+        "value": "0 14px 28px #073d292d",
+        "purpose": "Expanded mobile navigation"
+      }
+    ],
+    "motion": [
+      {
+        "name": "arrival-ease",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Hero and soft section arrival"
+      },
+      {
+        "name": "section-arrival-duration",
+        "value": ".85s",
+        "purpose": "Soft section arrival"
+      },
+      {
+        "name": "pet-arrival-duration",
+        "value": "1.3s",
+        "purpose": "Hero pet entrance"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "700px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "950px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Salon Call Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Telephone handoff to the salon",
+      "html": "<a class=\"ds-call\" href=\"tel:+32483158553\">Appeler le salon</a>",
+      "css": ".ds-call{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:10px 24px;background:#073d29;color:#fff8e9;border-radius:99px;font-family:DM,Arial,sans-serif;font-size:16px;font-weight:800;text-decoration:none;transition:transform .18s,filter .18s}.ds-call:hover{filter:brightness(1.05);transform:translateY(-2px)}.ds-call:focus-visible{outline:3px solid #006844;outline-offset:4px}@media(prefers-reduced-motion:reduce){.ds-call{transition:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Good Company watercolor pet world",
+    "overview": "Close replication requested by the user, adapted to Scar-Patte grooming in Vilvoorde. The reference at https://www.aashishthakuri.com/projects/goodcompany/ supplies visual authority and illustrative imagery; no separate approved comp exists.",
+    "keyCharacteristics": [
+      "Chunky DynaPuff forest-green headlines",
+      "Cream and pink watercolor paper",
+      "Photographic pets against a yellow disc",
+      "Notched appointment ticket",
+      "Three care cards and garden reveal"
+    ],
+    "rules": [
+      {
+        "name": "Truthful appointment handoff",
+        "body": "The ticket prepares a telephone discussion and never confirms a reservation.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Preserve the selected reference world",
+      "Keep French copy clear of overlapping art",
+      "Confirm illustrative services with the salon"
+    ],
+    "donts": [
+      "Represent reference photography as salon photography",
+      "Invent booking confirmations",
+      "Treat capture-mode screenshots as proof of motion timing"
+    ]
+  }
+}
